@@ -5,7 +5,7 @@ Here goes Jeff M, a student who foucks on computer systems design, distributed S
 I have years of work experience on microservices, high concurrency, high performance web development
 
 - 🔭  I’m currently studying on ML, System design, Distributed Systems, like to become a computer scientist
-- - 😄  Pronouns: He/His
+- 😄  Pronouns: He/His
 - 📫  How to reach me, GPG Key ID : 0x6B5E140C
 - 🌱  I cherish the opportunity to learn a technology I am interested in after a few years of work
 - ⚡  Fun fact: I am currently on going multiple transitions, returning to study after working for years
