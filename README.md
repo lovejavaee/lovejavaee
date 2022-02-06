@@ -6,7 +6,7 @@
   <img src="https://github.com/lovejavaee/lovejavaee/blob/main/stars.gif" />
 </p>
 
-Here goes Jeff M, a student who foucks on computer systems design, distributed Systems, ML and HPC
+Here goes Jeff M, a CS M.S. student who foucks on computer systems design, distributed Systems, ML and HPC
 
 I have years of work experience on microservices, high concurrency, high performance web development
 
