@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<h3 align="center">Welcome 🍵</h3>
+<p align="center">
+  <br><br>
+  <img src="https://github.com/lovejavaee/lovejavaee/blob/main/stars.gif" />
+</p>
+
 Here goes Jeff M, a student who foucks on computer systems design, distributed Systems, ML and HPC
 
 I have years of work experience on microservices, high concurrency, high performance web development
