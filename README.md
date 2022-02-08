@@ -17,6 +17,10 @@ I have years of work experience on microservices, high concurrency, high perform
 - 📫  How to reach me, GPG Key ID : 0x6B5E140C
 
 
+
+---
+const ME = { life: ( ) => 'never give up', goal: 'To be a better man!' }
+
 <!--
 **lovejavaee/lovejavaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
