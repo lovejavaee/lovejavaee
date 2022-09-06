@@ -10,7 +10,7 @@ Here goes Jeff M, a CE M.S. student who foucks on computer systems design, distr
 
 I have years of work experience on microservices, high concurrency, high performance web development
 
-- 🔭  I’m currently studying on ML, System design, Distributed Systems, like to become a computer scientist
+- 🔭  I’m currently studying on ML, System design, Distributed Systems, like to become a adv. computer engineer
 - 😄  Pronouns: He/His
 - 🌱  I cherish the opportunity to learn the technology I am interested in after a few years of work
 -  ⚡  Fun fact: I am currently on going multiple transitions, returning to study after working for years
