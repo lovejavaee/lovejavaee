@@ -6,6 +6,12 @@
   <img src="https://github.com/lovejavaee/lovejavaee/blob/main/stars.gif" />
 </p>
 
+
+<h1 align="center">
+For a start, my favourite quote is: <br/>
+while(!(succeed = try()));
+</h1>
+
 Here goes Jeff who focus on computer systems design, distributed Systems, ML and HPC
 
 I have years of work experience on microservices, high concurrency, high performance web development
